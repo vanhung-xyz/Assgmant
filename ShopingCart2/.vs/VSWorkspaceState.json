@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ShopingCart2",
+    "\\ShopingCart2\\Controllers",
+    "\\ShopingCart2\\Helpers",
+    "\\ShopingCart2\\Migrations",
+    "\\ShopingCart2\\Models",
+    "\\ShopingCart2\\Views",
+    "\\ShopingCart2\\Views\\Cart",
+    "\\ShopingCart2\\Views\\Products",
+    "\\ShopingCart2\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ShopingCart2\\Migrations\\20231020041029_InitProductShopping.cs",
+  "PreviewInSolutionExplorer": false
+}
